@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="电子科技大学成都学院开放原子开源社团" width="200" />
+  <img src="assets/logo.png" alt="电子科技大学成都学院开放原子开源社团" width="300" />
 </p>
 
 <p align="center">
