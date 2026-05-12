@@ -9,7 +9,7 @@
   <a href="https://openatom.tech/cduestc-opensource-club">
     <img src="https://img.shields.io/badge/%E5%9F%BA%E9%87%91%E4%BC%9A%E7%BB%84%E7%BB%87%E4%BB%93%E5%BA%93-OpenAtom-f59e0b?style=for-the-badge&logo=openatom&logoColor=white" alt="基金会组织仓库" />
   </a>
-  <a href="https://opentenbase.atomgit.com/">
+  <a href="https://opentenbase.openatom.tech/">
     <img src="https://img.shields.io/badge/OpenTenBase-%E8%BF%90%E8%90%A5%E4%B8%93%E5%8C%BA-0066cc?style=for-the-badge" alt="OpenTenBase 运营专区" />
   </a>
   <a href="https://pan.blackevil.cn/">
@@ -231,5 +231,5 @@
 <p align="center">
   <a href="https://opensouce-club.top/">社团官网</a> ·
   <a href="https://github.com/orgs/CDUESTC-OpenAtom-Open-Source-Club/repositories">组织仓库</a> ·
-  <a href="https://opentenbase.atomgit.com/">OpenTenBase 运营专区</a>
+  <a href="https://opentenbase.openatom.tech/">OpenTenBase 运营专区</a>
 </p>
