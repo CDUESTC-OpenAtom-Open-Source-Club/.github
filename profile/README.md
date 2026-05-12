@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/banner.png" alt="电子科技大学成都学院开放原子开源社团" width="100%" />
+  <img src="assets/logo.png" alt="电子科技大学成都学院开放原子开源社团" width="100%" />
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 - 参与 OpenTenBase 社区年会与分论坛分享
 
 <p align="center">
-  <img src="../assets/opentenbase.png" alt="OpenTenBase 社区共建" width="90%" />
+  <img src="assets/opentenbase.png" alt="OpenTenBase 社区共建" width="90%" />
 </p>
 
 </td>
@@ -68,7 +68,7 @@
 - 开展开放原子校源行 Meetup 专场活动
 
 <p align="center">
-  <img src="../assets/openharmony.png" alt="OpenHarmony 学习实践" width="90%" />
+  <img src="assets/openharmony.png" alt="OpenHarmony 学习实践" width="90%" />
 </p>
 
 </td>
@@ -86,7 +86,7 @@
 - 华为软件生态大会与 1024 程序员节
 
 <p align="center">
-  <img src="../assets/xiaoyuanxing.png" alt="校园开源活动" width="90%" />
+  <img src="assets/xiaoyuanxing.png" alt="校园开源活动" width="90%" />
 </p>
 
 </td>
@@ -102,7 +102,7 @@
 - 技术文章、实践案例与赛事经验沉淀
 
 <p align="center">
-  <img src="../assets/activity-wall.png" alt="项目与资料沉淀" width="90%" />
+  <img src="assets/activity-wall.png" alt="项目与资料沉淀" width="90%" />
 </p>
 
 </td>
@@ -200,7 +200,7 @@
 ## 公众号
 
 <p align="center">
-  <img src="../assets/wechat-qrcode.png" alt="开放原子开源社团公众号二维码" width="180" />
+  <img src="assets/wechat-qrcode.png" alt="开放原子开源社团公众号二维码" width="180" />
 </p>
 
 <p align="center">
