@@ -117,10 +117,6 @@
 
 社团在指导老师魏雨东老师的带领下，围绕 OpenTenBase、OpenHarmony、openEuler、openKylin、GitCode、华为云、腾讯云等方向开展学习、交流、竞赛与项目实践，逐步形成“活动引导、项目牵引、赛事促进、社区共建”的社团发展路径。
 
-| 指导老师 | 社长 / 负责人 | 成员规模 | 覆盖学院 | 覆盖年级 |
-|---|---|---:|---|---|
-| 魏雨东 | 张瑞 | 186 人 | 计算机学院、工学院、艺术与科技学院 | 2022 级、2023 级、2024 级、2025 级 |
-
 ---
 
 ## 部门建设
@@ -198,17 +194,6 @@
 | OpenTenBase 核心贡献挑战赛 | 社团队伍参与 OpenTenBase 核心贡献挑战赛并获得成果 | [查看](https://atomgit.com/opentenbase-kernel/000036-node_modules) |
 | OpenHarmony 竞赛训练营 | 社团成员参与开源鸿蒙训练营与固定赛道挑战 | [查看](https://gitee.com/honkai_yan/openharmony-competetion) |
 | OpenTenBase-Time-Series-Adapter | 社团成员发起的 OpenTenBase 相关开源项目 | [查看](https://github.com/iamkuangzhang/OpenTenBase-Time-Series-Adapter) |
-
----
-
-## 文章与实践
-
-| 方向 | 内容 |
-|---|---|
-| OpenTenBase 编译实践 | OpenTenBase 5.0 编译与使用指南、编译与使用实践 |
-| 国产化部署实践 | 在 OpenEuler 22.03-LTS-SP4 部署 OpenTenBase V5.0 并集成 opentenbase_ai 插件与国产大模型 |
-| 竞赛经验沉淀 | OpenTenBase 核心贡献挑战赛、开放原子大赛、OpenHarmony 训练营经验总结 |
-| 活动内容沉淀 | 校源行、训练营、程序员节、社区年会、企业参访等活动记录 |
 
 ---
 
