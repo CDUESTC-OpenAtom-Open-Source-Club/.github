@@ -6,11 +6,14 @@
   <a href="https://opensouce-club.top/">
     <img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-opensouce--club.top-2ea44f?style=for-the-badge" alt="社团官网" />
   </a>
-  <a href="https://github.com/CDUESTC-OpenAtom-Club">
-    <img src="https://img.shields.io/badge/%E7%BB%84%E7%BB%87%E4%BB%93%E5%BA%93-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="组织仓库" />
+  <a href="https://openatom.tech/cduestc-opensource-club">
+    <img src="https://img.shields.io/badge/%E5%9F%BA%E9%87%91%E4%BC%9A%E7%BB%84%E7%BB%87%E4%BB%93%E5%BA%93-OpenAtom-f59e0b?style=for-the-badge&logo=openatom&logoColor=white" alt="基金会组织仓库" />
   </a>
   <a href="https://opentenbase.atomgit.com/">
-    <img src="https://img.shields.io/badge/OpenTenBase-%E8%BF%90%E8%90%A5%E4%B8%93%E5%8C%BA-1677ff?style=for-the-badge" alt="OpenTenBase 运营专区" />
+    <img src="https://img.shields.io/badge/OpenTenBase-%E8%BF%90%E8%90%A5%E4%B8%93%E5%8C%BA-0066cc?style=for-the-badge" alt="OpenTenBase 运营专区" />
+  </a>
+  <a href="https://pan.blackevil.cn/">
+    <img src="https://img.shields.io/badge/%E7%A4%BE%E5%9B%A2%E7%BD%91%E7%9B%98-pan.blackevil.cn-00bfff?style=for-the-badge&logo=cloud&logoColor=white" alt="社团网盘" />
   </a>
 </p>
 
@@ -227,6 +230,6 @@
 
 <p align="center">
   <a href="https://opensouce-club.top/">社团官网</a> ·
-  <a href="https://github.com/CDUESTC-OpenAtom-Club">组织仓库</a> ·
+  <a href="https://github.com/orgs/CDUESTC-OpenAtom-Open-Source-Club/repositories">组织仓库</a> ·
   <a href="https://opentenbase.atomgit.com/">OpenTenBase 运营专区</a>
 </p>
