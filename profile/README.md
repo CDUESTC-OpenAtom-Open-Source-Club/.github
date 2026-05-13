@@ -6,9 +6,6 @@
   <a href="https://opensouce-club.top/">
     <img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-opensouce--club.top-2ea44f?style=for-the-badge" alt="社团官网" />
   </a>
-  <a href="https://openatom.tech/cduestc-opensource-club">
-    <img src="https://img.shields.io/badge/%E5%9F%BA%E9%87%91%E4%BC%9A%E7%BB%84%E7%BB%87%E4%BB%93%E5%BA%93-OpenAtom-f59e0b?style=for-the-badge&logo=openatom&logoColor=white" alt="基金会组织仓库" />
-  </a>
   <a href="https://opentenbase.openatom.tech/">
     <img src="https://img.shields.io/badge/OpenTenBase-%E8%BF%90%E8%90%A5%E4%B8%93%E5%8C%BA-0066cc?style=for-the-badge" alt="OpenTenBase 运营专区" />
   </a>
@@ -31,7 +28,6 @@
   <a href="#社团介绍">社团介绍</a> ·
   <a href="#开源方向">开源方向</a> ·
   <a href="#成长成果">成长成果</a> ·
-  <a href="#活动足迹">活动足迹</a> ·
   <a href="#加入我们">加入我们</a>
 </p>
 
@@ -50,7 +46,7 @@
 围绕国产开源数据库 OpenTenBase，社团持续参与社区学习、实践文章撰写、竞赛训练、城市行协办与高校社区建设。
 
 - 社团协助运营 OpenTenBase 运营专区
-- 参与 OpenTenBase 核心贡献挑战赛
+- 参与 OpenTenBase 核心贡献挑战赛并斩获多个三等奖
 - 参与 OpenTenBase 城市行·成都站
 - 参与 OpenTenBase 社区年会与分论坛分享
 
@@ -169,46 +165,15 @@
 
 ---
 
-## 活动足迹
-
-| 时间 | 活动 | 简介 |
-|---|---|---|
-| 2024.12 | 2024 开放原子开发者大会暨首届开源技术学术大会 | 社团骨干受邀参会，拓宽开源技术视野 |
-| 2024.12 | 访问腾讯云科技（武汉）有限责任公司 | 围绕开源合作、人才培养与企业技术实践进行交流 |
-| 2025.03 | 社团文化节 | 面向校内师生展示社团开源成果与荣誉 |
-| 2025.04 | 开放原子“校源行”（清华站） | 受邀参会，学习高校开源教育与开源人才评价机制 |
-| 2025.04 | DataWhale AI+X 高校行 | 围绕大模型与人工智能应用开展专题分享 |
-| 2025.04 | GitCode G-Star 开源校园行 | 参与 Git、GitCode、数据库开发与智能化应用交流 |
-| 2025.05 | 开放原子校源行（电子科技大学成都学院站） | 社团作为活动发起方，组织 200 人规模开源讲座 |
-| 2025.07 | 开放原子开源生态大会 OpenTenBase 分论坛 | 师生代表受邀分享高校开源社团建设与竞赛实践 |
-| 2025.10 | 开放原子开源社团迎新大会 | 面向新成员介绍社团方向、任务分组与开源路径 |
-| 2025.10 | 1024 程序员节 | 协助组织鸿蒙生态、华为人才生态训练营等主题活动 |
-| 2025.11 | 开源育人新范式分论坛 | 参与高校开源教育、人才培养与社区建设交流 |
-
----
-
 ## 项目与仓库
 
 | 名称 | 简介 | 地址 |
 |---|---|---|
 | 社团官网 | 社团介绍、活动记录、内容归档与展示窗口 | [查看](https://opensouce-club.top/) |
-| 组织仓库 | 社团 GitHub 组织主页 | [查看](https://github.com/CDUESTC-OpenAtom-Club) |
 | OpenTenBase 运营专区 | 社团协助参与的 OpenTenBase 社区运营与展示专区 | [查看](https://opentenbase.atomgit.com/) |
 | OpenTenBase 核心贡献挑战赛 | 社团队伍参与 OpenTenBase 核心贡献挑战赛并获得成果 | [查看](https://atomgit.com/opentenbase-kernel/000036-node_modules) |
 | OpenHarmony 竞赛训练营 | 社团成员参与开源鸿蒙训练营与固定赛道挑战 | [查看](https://gitee.com/honkai_yan/openharmony-competetion) |
 | OpenTenBase-Time-Series-Adapter | 社团成员发起的 OpenTenBase 相关开源项目 | [查看](https://github.com/iamkuangzhang/OpenTenBase-Time-Series-Adapter) |
-
----
-
-## 公众号
-
-<p align="center">
-  <img src="assets/wechat-qrcode.png" alt="开放原子开源社团公众号二维码" width="180" />
-</p>
-
-<p align="center">
-  关注公众号，获取社团活动通知、技术分享、招新信息与开源实践记录。
-</p>
 
 ---
 
@@ -224,12 +189,36 @@
 - 从文档、测试、实践文章、小任务开始完成第一次开源贡献；
 - 加入宣传、外联、组织、项目等部门，一起建设校园开源社区。
 
+### 关注我们
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<strong>公众号</strong>
+
+<img src="assets/wechat-qrcode.png" alt="开放原子开源社团公众号二维码" width="180" />
+
+关注公众号，获取社团活动通知、技术分享、招新信息与开源实践记录。
+
+</td>
+<td width="50%" align="center">
+
+<strong>QQ 群</strong>
+
+<img src="assets/qq-qrcode.png" alt="开放原子开源社团 QQ 群二维码" width="180" />
+
+扫码加入 QQ 群，参与社团交流、活动报名与开源实践。
+
+</td>
+</tr>
+</table>
+
 <p align="center">
   <strong>开放协作，共建未来。</strong>
 </p>
 
 <p align="center">
   <a href="https://opensouce-club.top/">社团官网</a> ·
-  <a href="https://github.com/orgs/CDUESTC-OpenAtom-Open-Source-Club/repositories">组织仓库</a> ·
   <a href="https://opentenbase.openatom.tech/">OpenTenBase 运营专区</a>
 </p>
