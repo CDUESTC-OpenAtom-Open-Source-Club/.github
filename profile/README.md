@@ -193,20 +193,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <strong>公众号</strong>
 
 <img src="assets/wechat-qrcode.png" alt="开放原子开源社团公众号二维码" width="180" />
 
+<br />
+
 关注公众号，获取社团活动通知、技术分享、招新信息与开源实践记录。
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <strong>QQ 交流群</strong>
 
 <img src="assets/qq-qrcode.png" alt="开放原子开源社团 QQ 群二维码" width="180" />
+
+<br />
 
 扫码加入 QQ 交流群，参与社团交流、活动报名与开源实践。
 
