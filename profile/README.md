@@ -223,6 +223,6 @@
 </p>
 
 <p align="center">
-  <a href="https://opensouce-club.top/">社团官网</a> ·
+  <a href="https://www.kcos.net.cn/">社团官网</a> ·
   <a href="https://opentenbase.openatom.tech/">OpenTenBase 运营专区</a>
 </p>
